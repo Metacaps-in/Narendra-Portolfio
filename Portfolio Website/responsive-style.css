@@ -1,0 +1,83 @@
+/* Resposive css*/
+/* Mobile Phone */
+@media only screen and (max-width:500px) {
+    * {
+      margin:0;
+      padding: 0;
+    }
+    .logo{
+      border-radius: 50%;
+    margin-top: 1px;
+    }
+    .navbar{
+      display: block;
+    margin-top: 10px;
+      text-align: center;
+    align-items: center;
+    float: right;
+    width: 90%;
+    font-weight: bold;
+    font-size: larger;
+    
+    }
+    ul{
+      width: 105%;
+    }
+    .bg-img{
+      width:80%;
+      height: 30%;
+      top: 20%;
+    
+  }
+    .images .images {
+    width: 70%;
+    height: 40%;
+    top: 40%;
+    left: -10%;
+  }
+  .images:hover .images {
+    top: 45%;
+    cursor: pointer;
+  }
+  }
+  /* for tablet */
+  @media only screen and (max-width:500px) {
+    * {
+      margin:0;
+      padding: 0;
+    }
+    .logo{
+      border-radius: 50%;
+    margin-top: 1px;
+    }
+    .navbar{
+      display: block;
+    margin-top: 10px;
+      text-align: center;
+    align-items: center;
+    float: right;
+    width: 90%;
+    font-weight: bold;
+    font-size: larger;
+    
+    }
+    ul{
+      width: 105%;
+    }
+    .bg-img{
+      width:80%;
+      height: 30%;
+      top: 20%;
+    
+  }
+    .images .images {
+    width: 70%;
+    height: 40%;
+    top: 40%;
+    left: -10%;
+  }
+  .images:hover .images {
+    top: 45%;
+    cursor: pointer;
+  }
+  }
